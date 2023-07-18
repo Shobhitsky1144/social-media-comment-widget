@@ -1,0 +1,42 @@
+
+input{
+    height: 3rem;
+    width: 28rem;
+    margin: 1rem;
+    border: 2px solid cornflowerblue;
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+.btn-primary{
+    border: none;
+    height: 2rem;
+    /* padding: 1rem; */
+    border-radius: 12px;
+    background: cornflowerblue;
+    color: white;
+    width: 8rem;
+    cursor: pointer;
+}
+.btn{
+    margin: 0px 7px;
+    height: 2rem;
+    width: 6rem;
+    border: 2px solid blue;
+    color: blue;
+    border-radius: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.delete-btn{
+    border: 2px solid red;
+    color: red;
+}
+.reply-btn{
+    border: 2px solid blue;
+    color: blue;
+}
+.edit-btn{
+    border: 2px solid brown;
+    color: brown;
+}
